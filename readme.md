@@ -3,3 +3,5 @@
 ## Product Library
 
 ### 3rd Party
+
+[thing]("./Product Library/3rd Party/3rd_Party.md")
