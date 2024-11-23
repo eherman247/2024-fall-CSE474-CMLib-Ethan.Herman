@@ -4,4 +4,4 @@
 
 ### 3rd Party
 
-[thing]("./Product Library/3rd Party/3rd_Party.md")
+[thing]("Product Library/3rd Party/3rd_Party.md")
