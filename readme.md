@@ -1,7 +1,3 @@
 # This is a CM library for CSE 474.
 
-## Product Library
-
-### 3rd Party
-
-[thing]("Product Library/3rd Party/3rd_Party.md")
+[SOAP Table of Contents](./Project%20Library/Project%20Documents/SQAP/table_of_contents.md)
